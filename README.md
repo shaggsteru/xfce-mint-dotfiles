@@ -1,1 +1,7 @@
+XFCE Linux Mint dotfiles
+
 ![my dot files](https://i.imgur.com/Ux9G4lq.png)
+
+Other things you need to set this up:
+Icons - https://www.pling.com/p/1581320
+GTK Theme - https://github.com/donfaustinocortizone/Nashville96
